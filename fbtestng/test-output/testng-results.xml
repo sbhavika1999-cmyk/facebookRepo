@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-23T15:53:45 IST" name="Suite1" finished-at="2025-12-23T15:53:49 IST" duration-ms="3755">
+    <groups>
+    </groups>
+    <test started-at="2025-12-23T15:53:45 IST" name="Test1" finished-at="2025-12-23T15:53:49 IST" duration-ms="3755">
+      <class name="fbpackage.LoginPageTestCase">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:fbpackage.LoginPageTestCase@5bf0d49]" started-at="2025-12-23T15:53:45 IST" name="setup" finished-at="2025-12-23T15:53:48 IST" duration-ms="3063" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validcredential()[pri:0, instance:fbpackage.LoginPageTestCase@5bf0d49]" started-at="2025-12-23T15:53:48 IST" name="validcredential" finished-at="2025-12-23T15:53:48 IST" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validcredential -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:fbpackage.LoginPageTestCase@5bf0d49]" started-at="2025-12-23T15:53:48 IST" name="closing" finished-at="2025-12-23T15:53:49 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- fbpackage.LoginPageTestCase -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
